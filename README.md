@@ -12,9 +12,9 @@ Important packages or modules used in the project:
 
 ## Team member details
 1. Harshil Sharaf
-- Resume: 
-- Linkedin: 
-- Github:
+- Resume: https://drive.google.com/file/d/1aTZw6hxlpWjRyqM-QwLIPlnckKNNEluZ/view?usp=sharing
+- Linkedin: https://www.linkedin.com/in/harshil-sharaf-2b8b2b1b6/
+- Github: https://github.com/HarshilSharaf
 
 2. Kaivel Patel
 - Resume: 
