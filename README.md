@@ -17,9 +17,9 @@ Important packages or modules used in the project:
 - Github: https://github.com/HarshilSharaf
 
 2. Kaivel Patel
-- Resume: 
-- Linkedin: 
-- Github:
+- Resume: https://drive.google.com/drive/folders/1TKIopaeSnT8_6d3uGf2S4vPvUgqAeCQu?usp=sharing
+- Linkedin: https://www.linkedin.com/in/kaivel-patel-085a81178
+- Github: https://github.com/kaivelpatel
 
 3. Ayush Rana
 - Resume: https://drive.google.com/file/d/1OnoCUvKfGVMLdsksPAUrj9NCGFPH0_Cn/view?usp=sharing
