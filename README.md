@@ -27,7 +27,7 @@ Important packages or modules used in the project:
 - Github: https://github.com/aaaayushh
 
 4. Jeel Damor (Team Leader)
-- Resume: 
-- Linkedin: 
-- Github:
+- Resume: https://drive.google.com/drive/folders/1pBpPzfR3puV0CJ4lleOFsltfh4PM00zB
+- Linkedin: www.linkedin.com/in/jeel-damor-0bb641205
+- Github:https://github.com/Jeel0710
 
