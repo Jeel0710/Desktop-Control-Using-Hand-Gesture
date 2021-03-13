@@ -22,7 +22,7 @@ Important packages or modules used in the project:
 - Github:
 
 3. Ayush Rana
-- Resume: 
+- Resume: https://drive.google.com/file/d/1OnoCUvKfGVMLdsksPAUrj9NCGFPH0_Cn/view?usp=sharing
 - Linkedin: www.linkedin.com/in/AyushRana06
 - Github: https://github.com/aaaayushh
 
