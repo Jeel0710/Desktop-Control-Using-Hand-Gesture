@@ -1,13 +1,6 @@
 # Desktop-Control-Using-Hand-Gesture
 The proposed system is ML based project which can control Windows desktop using only Hand Gestures that are detected by webcam and perform actions accordingly.
 
-## Requirements
-
-To run this project locally on your system:
-
-- Clone this repository in your system
-- cd into the cloned directory and run ```pip install -r requirements.txt``` in your terminal
-- Run main.py file using ```python3 main.py```
 
 ## Tech Stack
 
