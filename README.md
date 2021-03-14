@@ -25,6 +25,12 @@ Important packages or modules used in the project:
 
 **Note:** The hand gesture detection works on skin detection. So, any background noise should be avoided.
 
+## Video Demonstration
+
+https://user-images.githubusercontent.com/78898943/111058517-22a33380-84b5-11eb-8ade-b9cf11e7027f.mp4
+
+
+
 ## Team member details
 1. Harshil Sharaf
 - Resume: https://drive.google.com/file/d/1aTZw6hxlpWjRyqM-QwLIPlnckKNNEluZ/view?usp=sharing
@@ -41,7 +47,7 @@ Important packages or modules used in the project:
 - Linkedin: www.linkedin.com/in/AyushRana06
 - Github: https://github.com/aaaayushh
 
-4. Jeel Damor (Team Leader)
+4. Jeel Damor (Admin)
 - Resume: https://drive.google.com/drive/folders/1pBpPzfR3puV0CJ4lleOFsltfh4PM00zB
 - Linkedin: www.linkedin.com/in/jeel-damor-0bb641205
 - Github:https://github.com/Jeel0710
