@@ -2,6 +2,13 @@
 The proposed system is ML based project which can control Windows desktop using only Hand Gestures that are detected by webcam and perform actions accordingly.
 
 
+## Usage
+
+- Gesture: Zero => Action: Drag
+- Gesture: One (or any other) => Move Pointer
+- Gesture: Two => Action: Left Click
+
+
 ## Tech Stack
 
 Important packages or modules used in the project:
@@ -9,6 +16,11 @@ Important packages or modules used in the project:
 - OpenCV
 - PyAutoGui
 - Pillow
+
+
+## WorkFlow
+![image](https://user-images.githubusercontent.com/54733624/111056452-e8ca3100-84a4-11eb-97ab-d66eaf49bf58.png)
+
 
 ## Team member details
 1. Harshil Sharaf
