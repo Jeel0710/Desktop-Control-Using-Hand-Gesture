@@ -1,6 +1,8 @@
 # Desktop-Control-Using-Hand-Gesture
 The proposed system is ML based project which can control Windows desktop using only Hand Gestures that are detected by webcam and perform actions accordingly.
 
+The vision based desktop control using the hand gesture system is developed in the Python language, using the OpenCV library. The system is able to control the movement of a cursor by tracking the user’s hand. Cursor functions are performed by using different hand gestures. The system has the potential of being a viable replacement for the computer mouse.
+
 
 ## Usage
 
@@ -21,6 +23,7 @@ Important packages or modules used in the project:
 ## WorkFlow
 ![image](https://user-images.githubusercontent.com/54733624/111056452-e8ca3100-84a4-11eb-97ab-d66eaf49bf58.png)
 
+**Note:** The hand gesture detection works on skin detection. So, any background noise should be avoided.
 
 ## Team member details
 1. Harshil Sharaf
